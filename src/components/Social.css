@@ -1,0 +1,49 @@
+footer h1 {
+  color: #fafafa !important;
+  font-size: 1.6rem !important;
+}
+
+.social-table {
+  border: none !important;
+  border-left: #ff9100 solid 0.2rem !important;
+  width: auto !important;
+}
+
+tr {
+  background: transparent !important;
+}
+
+td {
+  padding: 1rem !important;
+  background-color: transparent !important;
+}
+
+td:nth-child(2) a {
+  color: #eceff1 !important;
+  font-weight: normal;
+  font-size: .9rem;
+}
+
+.no-border {
+  border: none !important;
+}
+
+.fb-icon {
+  color: #4267B2;
+}
+
+.instagram-icon {
+  color: #EF4C5D;
+}
+
+.linkedin-icon {
+  color: #0177B5;
+}
+
+.github-icon {
+  color: #dbd6d1;
+}
+
+.medium-icon {
+  color: #d6d6d6;
+}

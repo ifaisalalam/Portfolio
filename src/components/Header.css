@@ -1,0 +1,30 @@
+.head-content .name-title {
+  font-size: 2.6rem;
+  color: #eceff1 !important;
+}
+
+.head-content .brief-info-content {
+  font-size: 1rem;
+  color: #eceff1 !important;
+}
+
+.head-content .brief-info-sub-content {
+  font-size: 0.9rem;
+}
+
+.head-content .brief-info-content a {
+  color: #eeeeee !important;
+  text-decoration: none;
+}
+
+blockquote {
+  border-color: #E45212;
+  font-size: .95rem;
+}
+
+@media only screen and (min-width: 601px) {
+  blockquote {
+    width: 80%;
+    min-height: 6.8rem;
+  }
+}

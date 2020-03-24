@@ -1,0 +1,77 @@
+.card {
+  box-shadow: none !important;
+  border: 1px solid #cfd8dc;
+}
+
+.card-title {
+  margin: .5rem 24px !important;
+  font-size: 1.3rem !important;
+}
+
+.project-heading-divider {
+  margin: 0 5rem 0 1.3rem !important;
+  border-color: #cfd8dc !important;
+  height: .08rem !important;
+}
+
+.progress {
+  background-color: #e8eaf6;
+  height: .35rem;
+}
+
+.progress .determinate {
+  background-color: #01579b;
+}
+
+.progress-title {
+  color: #424242;
+}
+
+.progress-percent {
+  font-weight: bolder;
+  color: #01579b !important;
+}
+
+.project-description {
+  color: #616161;
+}
+
+.project-resources {
+  padding-top: 1rem;
+}
+
+.project-resource-item {
+  margin-right: 1rem;
+}
+
+a.project-resource-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-footer {
+  padding: 10px 24px;
+}
+
+.card-footer-title {
+  font-weight: bold;
+  font-family: sans-serif, serif;
+}
+
+.card-footer-content {
+  padding: .6rem 0 0 0;
+}
+
+.card-footer-image {
+  border-radius: 100%;
+}
+
+@media only screen and (min-width: 601px) {
+  .d-flex {
+    display: flex !important;
+  }
+
+  .align-items-stretch {
+    align-items: stretch !important;
+  }
+}
