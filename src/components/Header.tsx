@@ -16,7 +16,7 @@ class Header extends React.Component<any, any> {
     this.name = 'Faisal Alam';
     this.title = 'Software Development Engineering Intern';
     this.subtitle = 'Backend Engineer | DevSecOps Practitioner | Solutions Architect | Cybersecurity Enthusiast';
-    this.introduction = 'I am a Software Engineer who loves designing and developing systems that demand high scalability and availability. I also have good cybersecurity skills.';
+    this.introduction = 'I am a Software Engineer who loves designing and developing systems that demand high scalability and availability.';
     this.company = 'RentoMojo';
     this.companyWebsite = 'https://rentomojo.com';
   }
